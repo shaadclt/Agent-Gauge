@@ -287,5 +287,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-**Your Name**  
+**Mohamed Shaad**  
 Email: [shaadclt@gmail.com](mailto:shaad@gmail.com)
